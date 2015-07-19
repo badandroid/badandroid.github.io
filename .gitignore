@@ -34,3 +34,4 @@ proguard/
 
 # jekyll stuff
 feed.xml
+_ignore/
