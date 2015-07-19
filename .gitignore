@@ -1,3 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
 # Built application files
 *.apk
 *.ap_
@@ -28,3 +31,6 @@ proguard/
 
 # Vimstuff
 *.swp
+
+# jekyll stuff
+feed.xml
