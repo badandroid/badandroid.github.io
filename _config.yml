@@ -5,8 +5,8 @@ description: >
     Android Malware Analysis Blog
 paginate: 10
 highlighter: pygments
-name: Solar Theme
-permalink: /
+name: Bad Android
+permalink: /:year/:month/:day/:title
 baseurl: ""
 url: "http://badandroid.github.io"
 twitter_username: abpolym

@@ -7,6 +7,6 @@ categories: meta
 
 Where to get samples from:
 
-* [contagio minidump](contagio)
+* [contagio minidump][contagio]
 
 [contagio]: http://contagiominidump.blogspot.com
